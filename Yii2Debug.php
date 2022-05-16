@@ -161,6 +161,10 @@ class Yii2Debug extends CApplicationComponent
 	{
 		return array(
 			'' => 'default/index',
+			'default/<action:toolbar|explain>/tag/<tag:[0-9a-f]+>' => 'default/<action>',
+			'default/view/panel/<panel:\w+>/tag/<tag:[0-9a-f]+>' => 'default/view',
+			'default/latest/panel/<panel:\w+>' => 'default/view',
+			'default/<action:\w+>' => 'default/<action>',
 			'<tag:[0-9a-f]+>/<action:toolbar|explain>' => 'default/<action>',
 			'<tag:[0-9a-f]+>/<panel:\w+>' => 'default/view',
 			'latest/<panel:\w+>' => 'default/view',
