@@ -11,7 +11,7 @@ Installation
 
 This extension is available at packagist.org and can be installed via composer by following command:
 
-`composer require --dev zhuravljov/yii2-debug`.
+`composer require --dev dgoriaev/yii2-debug`.
 
 If you want to install this extension manually just copy sources to `/protected/extensions` directory.
 

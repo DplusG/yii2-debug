@@ -3,7 +3,7 @@ yii2-debug
 
 Отладочная панель для Yii 1.1 портированная из Yii 2.
 
-[![Total Downloads](https://poser.pugx.org/zhuravljov/yii2-debug/downloads.png)](https://packagist.org/packages/zhuravljov/yii2-debug)
+[![Total Downloads]](https://packagist.org/packages/dgoriaev/yii2-debug)
 
 Использование
 -------------
