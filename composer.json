@@ -1,6 +1,6 @@
 {
 	"name": "dgoriaev/yii2-debug",
-	"description": "Yii debug toolbar",
+	"description": "Yii2 debug toolbar ported to Yii1",
 	"keywords": ["yii", "extension", "debug"],
 	"homepage": "https://github.com/dplusg/yii2-debug",
 	"type": "yii-extension",
