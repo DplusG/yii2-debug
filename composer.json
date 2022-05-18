@@ -1,5 +1,5 @@
 {
-	"name": "dplusg/yii2-debug",
+	"name": "dgoriaev/yii2-debug",
 	"description": "Yii debug toolbar",
 	"keywords": ["yii", "extension", "debug"],
 	"homepage": "https://github.com/dplusg/yii2-debug",
